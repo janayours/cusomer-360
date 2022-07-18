@@ -1,9 +1,6 @@
 .cars-container .card {
   /* min-width: 200px; */
-  max-width: 1000px;
-  margin: 10px;
-  border: 1px solid brown;
-  padding: 10px;
+
   background-color: white;
 }
 

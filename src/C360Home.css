@@ -1,7 +1,9 @@
 .cars-container .card {
   /* min-width: 200px; */
-
-  background-color: white;
+  margin-top: 10px;
+  padding: 2px;
+  background-color: #3A7CC2;
+  /* background-color: white; */
 }
 
 .cars-container .card p {

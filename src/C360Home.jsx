@@ -15,15 +15,15 @@ function C360Home() {
     <>
       <div className="cars-container flex flex-wrap justify-evenly ">
         <div className="card">
-          <p>Customer 360</p>
-          <img src="https://www.superoffice.com/contentassets/02131ddb72504f45a35b9fc21b42f875/ideal-customer-profiles.png" />
+          {/* <p>Customer 360</p> */}
+          <img src="https://alphzbqgpo.cloudimg.io/v7/www.growmodo.com/wp-content/uploads/2019/05/growmodo-blog-image-daisy-discount-01.jpg" />
         </div>
       </div>
       <Modal open={open} onClose={onCloseModal} center>
         <h2>Customer 360</h2>
         <div className="modal-info-cont">
           <div className="img-cont">
-            <img src="https://www.superoffice.com/contentassets/02131ddb72504f45a35b9fc21b42f875/ideal-customer-profiles.png" />
+            <img src="https://alphzbqgpo.cloudimg.io/v7/www.growmodo.com/wp-content/uploads/2019/05/growmodo-blog-image-daisy-discount-01.jpg" />
           </div>
           <FormSubscribe></FormSubscribe>
         </div>
